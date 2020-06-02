@@ -30,10 +30,14 @@ This project was made within the **Next Level Week** course that occurred betwee
 - [ReactJS](https://reactjs.org/)
 ### Mobile
 - [React Native](https://reactnative.dev/)
-
+### Database
+- [SQLite](https://www.sqlite.org/index.html)
+- [Knex.js](http://knexjs.org/): Query builder
 
 ## :wrench: Dependencies
-
-- [Express](https://expressjs.com/)
+- [express](https://expressjs.com/)
 - [ts-node](https://www.npmjs.com/package/ts-node)
 - [@types/express](https://www.npmjs.com/package/@types/express)
+- [knex](http://knexjs.org/): Query builder
+- [sqlite3](https://www.sqlite.org/index.html): Database
+- [cors](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
