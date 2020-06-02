@@ -3,13 +3,11 @@
 
 <h1 align="center">🚀 Next Level Week 🚀 </h1>
 
----
 </br>
 <p align="center">
   <img src="https://camo.githubusercontent.com/dda2124efff062e38068943c6e848540387df6e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d253233303444333631" alt="licenceMIT">
 </p>
 </br>
----
 
 ## :mag_right: Index
 
