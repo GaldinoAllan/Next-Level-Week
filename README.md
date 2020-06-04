@@ -35,13 +35,21 @@ This project was made within the **Next Level Week** course that occurred betwee
 - [Knex.js](http://knexjs.org/): Query builder
 
 ## :wrench: Dependencies
-- [eslint]()
-- [prettier]()
+- [eslint](https://eslint.org/)
+- [prettier](https://prettier.io/)
 - [express](https://expressjs.com/): Backend Routes
 - [ts-node](https://www.npmjs.com/package/ts-node)
 - [@types/express](https://www.npmjs.com/package/@types/express)
 - [knex](http://knexjs.org/): Query builder
 - [sqlite3](https://www.sqlite.org/index.html): Database
 - [cors](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-- [axios](): API Connection
-- [leaflet](): Map API
+- [axios](https://github.com/axios/axios): API Connection
+- [leaflet](https://leafletjs.com/): Map API
+- [react-native-maps](https://github.com/react-native-community/react-native-maps)
+- [react-navigation](https://reactnavigation.org/)
+- [react-native-gesture-handler](https://www.npmjs.com/package/react-native-gesture-handler)
+- [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+- [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context)
+- [expo](https://expo.io/)
+- [expo-location](https://docs.expo.io/versions/latest/sdk/location/)
+- [expo-mail-composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
