@@ -35,9 +35,13 @@ This project was made within the **Next Level Week** course that occurred betwee
 - [Knex.js](http://knexjs.org/): Query builder
 
 ## :wrench: Dependencies
-- [express](https://expressjs.com/)
+- [eslint]()
+- [prettier]()
+- [express](https://expressjs.com/): Backend Routes
 - [ts-node](https://www.npmjs.com/package/ts-node)
 - [@types/express](https://www.npmjs.com/package/@types/express)
 - [knex](http://knexjs.org/): Query builder
 - [sqlite3](https://www.sqlite.org/index.html): Database
 - [cors](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [axios](): API Connection
+- [leaflet](): Map API
