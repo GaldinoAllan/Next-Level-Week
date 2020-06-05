@@ -55,4 +55,4 @@ This project was made within the **Next Level Week** course that occurred betwee
 - [expo-mail-composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
 
 #### Validation Dependencies
-- [celebrate]()
+- [celebrate](https://github.com/arb/celebrate)
