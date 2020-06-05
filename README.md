@@ -53,3 +53,6 @@ This project was made within the **Next Level Week** course that occurred betwee
 - [expo](https://expo.io/)
 - [expo-location](https://docs.expo.io/versions/latest/sdk/location/)
 - [expo-mail-composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
+
+#### Validation Dependencies
+- [celebrate]()
