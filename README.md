@@ -1,3 +1,4 @@
+
 <h1 align="center">🚀 Next Level Week 🚀 </h1>
 <h1 align="center">
     <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
@@ -9,9 +10,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
 </p>
 </br>
 
